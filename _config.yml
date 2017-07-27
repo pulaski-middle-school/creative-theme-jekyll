@@ -1,12 +1,12 @@
 # Site settings
-title:
+title: Pulaski Middle School FAQ
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description:  Frequently asked questions about the proposed Pulaski County consolidated Middle School
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: tgoff
 
 # Build settings
 markdown: kramdown
